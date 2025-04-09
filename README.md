@@ -32,7 +32,7 @@ This work is licensed under Creative Commons Zero v1.0 Universal, allowing unres
 📬 Contact
 
 For queries, contributions, or collaboration, feel free to reach out:
-📧 Email: pattapubhavyasri@gmail.com
+📧 Email: akshayakokkerlapati@gmail.com
 
 <img src="https://github.com/user-attachments/assets/2897a608-fa7d-43a7-bb83-bcf2aaf97f55" width="400"/>
 <img src="https://github.com/user-attachments/assets/18e0ba67-a2e1-4296-8462-caca72c5b558" width="400"/>
